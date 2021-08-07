@@ -1,1 +1,3 @@
 this is the added by developer two for git conflict 
+this is first line added on conflict one branch for testing git conflict
+
